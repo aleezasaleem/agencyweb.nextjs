@@ -38,7 +38,7 @@ const Nav = () => {
     <ButtonRed  text='Sign Up'/>
     
         </div>
-        <span className='md:hidden sm:flex sm:justify-between text-2xl' ><GiHamburgerMenu onClick={toggleMenu} />
+        <span className='md:hidden sm:flex sm:justify-between text-2xl' ><GiHamburgerMenu  />
       
         </span>
       </div>
